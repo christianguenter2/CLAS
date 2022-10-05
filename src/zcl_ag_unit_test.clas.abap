@@ -18,6 +18,7 @@ CLASS ZCL_AG_UNIT_TEST IMPLEMENTATION.
   method HELLO.
 
     write: |Standard|.
+    write: |Standar2|.
 
   endmethod.
 ENDCLASS.
